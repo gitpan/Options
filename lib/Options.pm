@@ -1,7 +1,7 @@
 #!/usr/bin/env perl
 
 ##################################################################
-# Options.pm 1.5
+# Options.pm 1.5.2
 # 
 # Copyright (C) 2005-2007 by Phil Christensen
 ##################################################################
@@ -25,7 +25,7 @@ our @EXPORT = qw(
 	
 );
 
-our $VERSION = '1.5.1';
+our $VERSION = '1.5.2';
 
 =head1 NAME
 
@@ -56,7 +56,7 @@ Options - Yet another Perl module to provide support for command-line option par
 
 =head1 CONTENTS
 
- Options 1.5.1
+ Options 1.5.2
 
 =head1 DESCRIPTION
 
